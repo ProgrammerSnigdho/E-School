@@ -1,0 +1,145 @@
+html {
+    scroll-behavior: smooth;
+}
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar-brand img {
+    width: 198.07px;
+    height: 59px;
+}
+
+.button {
+    padding: 12px 28px;
+    background: #21B573;
+    border-radius: 33px;
+    color: #FFFFFF;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.button:hover {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.nav-item {
+    margin-right: 22px;
+}
+
+.bg-light {
+    background-color: #F0FFF0 !important;
+}
+
+header {
+    background-color: #F0FFF0;
+}
+
+.top-banner {
+    background-color: #F0FFF0;
+}
+
+.top-banner img {
+    width: 100%;
+}
+
+.top-container {
+    padding-top: 70px;
+}
+
+.ready-to-learn {
+    color: #FD511A;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+.top-banner p {
+    color: #6C6B6B;
+    line-height: 36px;
+    margin-bottom: 44px;
+}
+
+.top-banner h1 span {
+    color: #21B573;
+}
+
+.e-school-detail img {
+    width: 66px;
+    height: 67px;
+    margin: auto;
+}
+
+.e-school-detail .card {
+    border: none;
+    background-color: #F8FFFB;
+    height: 270px;
+}
+
+.e-school-detail .card:hover {
+    background-color: white;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+
+.courses .card p {
+    color: #585859;
+}
+
+.courses .card {
+    border-radius: 18px;
+    border: none;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    width: 340px !important;
+    height: 475px !important;
+    margin-bottom: 20px;
+}
+
+.courses .card img {
+    width: 92%;
+    padding-top: 13px;
+    margin: auto;
+    border-radius: 11px;
+}
+
+.courses .card div img {
+    width: 24px !important;
+}
+
+.my-card-footer {
+    border-top: none;
+    line-height: 16px;
+}
+
+.my-card-footer div p {
+    margin-top: 32px;
+    margin-left: 5px;
+}
+
+.testimonial img {
+    width: 100%;
+    margin-left: 160px;
+}
+
+.testimonial p {
+    width: 620px;
+    margin-left: 150px;
+}
+
+footer {
+    height: 379px;
+    background-color: #282531;
+    margin-top: 120px;
+    color: white;
+}
+
+footer p {
+    font-weight: 300;
+}
+
+.copyright {
+    margin-top: 40px;
+    color: #CDCDCD;
+}
